@@ -27,11 +27,11 @@ HOST,steamcommunity-a.akamaihd.net,China
 HOST,weixin.com,China
 HOST,www.libvideo.com,China
 HOST,www.yxssp.com,China
-HOST-SUFFIX,icloud.com.China
-HOST-SUFFIX,ddxq.mobi.China
-HOST-SUFFIX,geely.com.China
-HOST-SUFFIX,ddimg.mobi.China
-HOST-SUFFIX,360buyimg.com.China
+HOST-SUFFIX,icloud.com,China
+HOST-SUFFIX,ddxq.mobi,China
+HOST-SUFFIX,geely.com,China
+HOST-SUFFIX,ddimg.mobi,China
+HOST-SUFFIX,360buyimg.com,China
 HOST-SUFFIX,00cdn.com,China
 HOST-SUFFIX,0123456789.com,China
 HOST-SUFFIX,0379home.com,China
